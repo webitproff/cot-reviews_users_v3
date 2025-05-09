@@ -15,7 +15,7 @@ defined('COT_CODE') or die('Wrong URL.');
  */
 $L['cfg_checkprojects'] = 'Разрешить добавлять отзывы только при наличии совместных проектов';
 $L['cfg_userall'] = 'Отображать на странице пользователя все отзывы';
-
+$L['reviews_title'] = 'Отзывы пользователей';
 /**
  * Interface Labels
  */
@@ -30,7 +30,7 @@ $L['reviews_add_review'] = 'Добавить отзыв';
 $L['reviews_edit_review'] = 'Редактировать отзыв';
 $L['reviews_user'] = 'Пользователь';
 $L['reviews_maintitle'] = 'Заголовок';
-$L['reviews_title'] = 'Заголовок';
+
 $L['reviews_date'] = 'Дата';
 $L['reviews_author'] = 'Автор';
 $L['reviews_recipient'] = 'Получатель';
