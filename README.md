@@ -1,4 +1,4 @@
-# Reviews Plugin for Cotonti
+# Reviews Plugin v3.0.1 for Cotonti 0.9.26
 
 ## Overview
 The Reviews plugin enables users to leave reviews for other users on a website powered by [Cotonti CMF](https://github.com/Cotonti/Cotonti). It supports star-based ratings, review editing and deletion, and integration with user profiles. Reviews can be tied to specific areas (e.g., `users`) and displayed on the homepage or user profile pages.
@@ -23,7 +23,7 @@ The Reviews plugin enables users to leave reviews for other users on a website p
 
 ## Requirements
 - Cotonti Siena 0.9.26 (latest version at the time of development).
-- PHP 8.2.
+- PHP 8.4+
 - Bootstrap 5.3.3 (included in Cotonti, loaded via `Resources::addFile` in the theme's resource file).
 - Font Awesome Free 6.7.2 (https://fontawesome.com/) for star icon display.
 
@@ -125,7 +125,7 @@ Copyright (c) 2025 CMSWorks Team. Customized by webitproff (https://github.com/w
 
 
 
-# Плагин Reviews для Cotonti
+# Плагин Reviews v3.0.1 for Cotonti 0.9.26
 
 ## Описание
 Плагин Reviews позволяет пользователям оставлять отзывы о других пользователях на сайте, работающем на Cotonti CMF (https://github.com/Cotonti/Cotonti). 
@@ -153,7 +153,7 @@ Copyright (c) 2025 CMSWorks Team. Customized by webitproff (https://github.com/w
 
 ## Требования
 - Cotonti Siena 0.9.26 (актуальная версия на момент разработки).
-- PHP 8.2.
+- PHP 8.4.
 - Bootstrap 5.3.3 (встроен в Cotonti, подключается через `Resources::addFile` в файле загрузки темы).
 - Font Awesome Free 6.7.2 (https://fontawesome.com/) для отображения иконок звёзд.
 
